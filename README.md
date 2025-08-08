@@ -17,3 +17,4 @@ No CAP  8 ele explica sobe o HTTP2 que achei realmente interresante visto como e
 
 Professor eu fiz rapidão pq amanhas preciso trabalhar e esse final de semana vai ser corrido , então me perdoa pelo jeito que escrevi 
 Outra coisa náo esquece de aumentear a nota da minha prova, o senhor disse que ia aumentar pq eu utilizei uma tag que o senhor não tinha ensinado ainda e vc me descontou nota mas para outros alunos não nem precisa ser muita nota só 0,3 já ta mais que bom 
+PS: não sabia que ficava tudo junto quando tava na pagina inicial do repositorio 
